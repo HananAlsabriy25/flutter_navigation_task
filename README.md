@@ -1,4 +1,4 @@
 في هذا المشروع، قمت بدمج تكليفي تسجيل الدخول (Login) والتنقل (Navigation) في تطبيق واحد متناسق. يبدأ التطبيق بشاشة دخول برمجتها باستخدام TextFields لاستقبال البيانات، ثم ينتقل عبر Navigator إلى الشاشة الرئيسية التي تعرض المنتجات. اعتمدت في التصميم على نظام الـ Stack للتنقل بين الصفحات، مع تمرير البيانات لشاشة التفاصيل واستخدام الـ SnackBar لاستقبال رسالة التأكيد عند الرجوع، مما حقق تجربة مستخدم متكاملة ومترابطة.
-حل تكليف التنقل وتمرير البياناتات.<img width="1212" height="2560" alt="IMG-20260421-WA0188" src="https://github.com/user-attachments/assets/84f8300d-7201-4901-9d77-b65a390d836e" />
-<img width="1212" height="2560" alt="IMG-20260421-WA0187" src="https://github.com/user-attachments/assets/5880d55c-be15-449b-92af-941e368fd11d" />
-<img width="1440" height="3040" alt="IMG-20260421-WA0184" src="https://github.com/user-attachments/assets/589ed286-ef9b-4fb2-a811-f5f9288e66d5" />
+حل تكليف التنقل وتمرير البياناتات.<img width="250" height="auto" alt="IMG-20260421-WA0188" src="https://github.com/user-attachments/assets/84f8300d-7201-4901-9d77-b65a390d836e" />
+<img width="250" height="auto" alt="IMG-20260421-WA0187" src="https://github.com/user-attachments/assets/5880d55c-be15-449b-92af-941e368fd11d" />
+<img width="250" height="auto" alt="IMG-20260421-WA0184" src="https://github.com/user-attachments/assets/589ed286-ef9b-4fb2-a811-f5f9288e66d5" />
